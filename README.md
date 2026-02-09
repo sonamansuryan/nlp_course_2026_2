@@ -1,4 +1,4 @@
-# nlp-course-2025.1
+# nlp-course-2026.2
 
 ## Submission Guidelines
 1. Clone this repository
